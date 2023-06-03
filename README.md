@@ -21,6 +21,10 @@ JMeter have to be installed
 
 ![Screenshot (114)](https://github.com/MaishaBKH12/Random-User-API-Performance-Test/assets/134250302/219b428c-8eff-4aa3-adbd-8e57d40cc8f0)
 
+# Bottle Neck
+
+If 5000 users give load for 60 seconds, system got error 1.22%... Then actual TPS is 65 rather than 84.
+
 
 
 # Stress Testing
