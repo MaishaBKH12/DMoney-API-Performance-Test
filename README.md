@@ -1,4 +1,4 @@
-# Random-User-API-Performance-Test
+# DMoney-API-Performance-Test
 
 # Project Summary
 This project is based on performance testing of a random api using JMeter, where 120000 users can give load for 12 hours. We have to  find out the 
